@@ -1,0 +1,1 @@
+echo tojas serpenyobe, megsozva
