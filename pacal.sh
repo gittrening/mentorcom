@@ -1,0 +1,3 @@
+echo cut a cow into half
+echo cook its stomach
+echo enjoy ....
